@@ -1,4 +1,4 @@
-def display_board
+ef display_board
   
   puts "   |   |   "
   puts "-----------"
